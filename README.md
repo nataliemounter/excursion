@@ -1,4 +1,4 @@
-# excursion
+# Excursion
 The web page I have built advertises a mobile app which helps users record and share their experiences!
 
 ## Table of contents
