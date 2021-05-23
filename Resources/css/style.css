@@ -29,3 +29,11 @@ color: gray;
     font-style: 16px;
     color: aquamarine;
 }
+
+/* FOOTER */
+
+.footer--copyright {
+    color: gray;
+    text-align: right;
+    font-size: 21px;
+}
